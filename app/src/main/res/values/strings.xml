@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Counting  1</string>
+    <string name="count">Count</string>
+    <string name="_1">1</string>
+    <string name="click_on_count_button">Click on Count button</string>
+    <string name="_0">0</string>
+    <string name="reset">Reset</string>
+</resources>
