@@ -3,7 +3,7 @@
 This repository contains a simple Count app built using Kotlin. The app allows users to increment and decrement a counter, making it an excellent project for learning Kotlin and Android development basics.
 
 ## Features
-- **Counter Functionality**: Increment and decrement a counter value.
+- **Counter Functionality**: Increment and reset to zero a counter value.
 - **Interactive UI**: User-friendly interface with buttons to adjust the counter.
 - **State Persistence**: Retains the counter value during device rotations.
 
@@ -15,7 +15,7 @@ This repository contains a simple Count app built using Kotlin. The app allows u
 2. Open the project in Android Studio.
 3. Connect an Android device or use an emulator.
 4. Build and run the app.
-5. Use the "+" and "-" buttons to adjust the counter value.
+5. Use the "count" and "reset" buttons to adjust the counter value.
 
 ## Key Learning Outcomes
 - Practiced Kotlin basics, including variables, functions, and event handling.
